@@ -10,10 +10,28 @@ Claro, como não é requisitada nenhuma API, não tem muitas palavras, pois as c
 
 ## Posição 1
 
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/A.png)
+
 ## Posição 2
+
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/B.png)
 
 ## Posição 3
 
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/C.png)
+
 ## Posição 4
 
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/D.png)
+
 ## Posição 5
+
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/E.png)
+
+## Multiplas Posições
+
+![](https://github.com/Victor-Lis/Termo-Search/blob/main/ProjectImages/ADE%20(acude).png)
+
+# Autores
+
+- [@Victor-Lis](https://github.com/Victor-Lis)
