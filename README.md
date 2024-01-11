@@ -4,7 +4,9 @@ Esse projeto consiste basicamente em uma site de ajuda para jogar Termo, jogo mu
 
 No termo você descobre a posição de algumas letras e monta a palavra. Aqui no caso, você passa as letras para determinada posição e o site retorna as possíveis palavras.
 
-Claro, como não é requisitada nenhuma API, não tem muitas palavras, pois as coloquei na mão
+Claro, como não é requisitada nenhuma API, não tem muitas palavras, pois as coloquei na mão.
+
+Acredito que esse seja um projeto no mínimo interessante, talvez um dia eu possa atualiza-lo, talvez adicionando uma API para requisitar as palavras, ou repaginando o estilo dele...
 
 # Screenshots
 
